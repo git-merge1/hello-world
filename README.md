@@ -1,5 +1,6 @@
 # hello-world
+Hi, i'm Anton
 
 My first repository
 
-My furst commit (typo)
+My first commit
